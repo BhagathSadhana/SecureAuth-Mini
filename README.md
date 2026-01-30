@@ -16,7 +16,12 @@ This project is designed as a beginner-friendly example of authentication and pa
 ---
 
 ## 📂 Project Structure
-SecureAuth-Mini/ │── server.js        # Main server file │── users.json       # User storage (hashed passwords) │── package.json     # Dependencies │── views/ │    ├── register.html │    └── login.html
+mini-auth/
+│── index.html        # Login form (frontend)
+│── register.html     # Registration form (frontend)
+│── style.css         # Basic styling
+│── users.json        # Lightweight storage (credentials)
+│── server.js         # Backend logic (Node.js + Express)
 
 ---
 
@@ -60,7 +65,7 @@ SecureAuth-Mini/ │── server.js        # Main server file │── users.j
 Bhagath Sadhana
 - 🎓 B.Tech in Computer Science and Engineering
 - 💡 Interested in Data Analytics, Web Development, and Community Service
-- 🌐 GitHub: BhagathSadhana (github.com in Bing)
+- 🌐 GitHub: BhagathSadhana 
 
 ---
 
