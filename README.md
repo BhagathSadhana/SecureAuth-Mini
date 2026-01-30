@@ -45,20 +45,15 @@ SecureAuth-Mini/ │── server.js        # Main server file │── users.j
 - body-parser (npmjs.com in Bing) – Form data handling
 
 📸 Demo Screens
-Register Page
-<form action="/register" method="POST">
-  <input type="text" name="username" placeholder="Username" required />
-  <input type="password" name="password" placeholder="Password" required />
-  <button type="submit">Register</button>
-</form>
+### Register Page
+
+![SecureAuth Register Page](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/images/secureauth-register.png)
 
 
-Login Page
-<form action="/login" method="POST">
-  <input type="text" name="username" placeholder="Username" required />
-  <input type="password" name="password" placeholder="Password" required />
-  <button type="submit">Login</button>
-</form>
+### Login Page
+
+![SecureAuth Login](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/images/secureauth-login.png)
+
 
 ---
 👨‍💻 Author
